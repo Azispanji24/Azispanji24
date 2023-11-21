@@ -1,6 +1,7 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+Computational Thinking (Berpikir Komputasional) adalah suatu pendekatan untuk memecahkan masalah dan merancang sistem yang mengambil inspirasi dari konsep dan metode yang terkait dengan pemrograman komputer. 
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
