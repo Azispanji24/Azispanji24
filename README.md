@@ -10,7 +10,7 @@
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 1.Komputer Pribadi (Personal Computer - PC):
-- Merupakan mesin komputasi yang dirancang untuk digunakan oleh satu orang. PC umumnya mencakup desktop dan laptop.
+- Merupakan mesin komputasi yang dirancang untuk digunakan oleh satu orang. PC umumnya mencakup desktop dan laptop.  
   Tujuan: Digunakan untuk tugas umum, seperti pengolahan kata, spreadsheet, browsing web, dan bermain game.
   
 2.Server:
