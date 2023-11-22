@@ -18,28 +18,36 @@
 - Tujuan: Menyediakan layanan atau sumber daya kepada komputer lain dalam jaringan, seperti penyimpanan data, hosting website, atau manajemen jaringan.
 
 3.Mainframe:
-Tujuan: Menangani pemrosesan transaksi bisnis skala besar dan aplikasi perusahaan yang membutuhkan kapasitas dan keandalan tinggi.
+- Mesin komputasi besar yang dirancang untuk menangani beban kerja berat dan volume data yang besar. Biasanya digunakan dalam lingkungan perusahaan untuk pemrosesan transaksi dan aplikasi skala besar.
+- Tujuan: Menangani pemrosesan transaksi bisnis skala besar dan aplikasi perusahaan yang membutuhkan kapasitas dan keandalan tinggi.
 
 4.Superkomputer:
-Tujuan: Menyelesaikan perhitungan ilmiah dan teknik yang sangat kompleks, seperti simulasi cuaca, desain obat, dan pemodelan kompleks.
+- Mesin komputasi paling canggih dan kuat, dirancang untuk menyelesaikan perhitungan ilmiah dan teknik yang kompleks. Superkomputer digunakan dalam riset intensif dan aplikasi yang membutuhkan daya komputasi tinggi.
+- Tujuan: Menyelesaikan perhitungan ilmiah dan teknik yang sangat kompleks, seperti simulasi cuaca, desain obat, dan pemodelan kompleks.
 
-5.Komputer Tablet:                                                                                                    
-Tujuan: Portabilitas dan kegunaan sehari-hari untuk hiburan, produktivitas, dan pendidikan.
+5.Komputer Tablet:
+- Mesin komputasi portabel dengan layar sentuh yang dirancang untuk mobilitas dan penggunaan sehari-hari. Tablet dapat digunakan untuk berbagai tujuan, termasuk hiburan, pekerjaan, dan pendidikan.
+- Tujuan: Portabilitas dan kegunaan sehari-hari untuk hiburan, produktivitas, dan pendidikan.
 
 6.Embedded Computer:
-Tujuan: Terintegrasi dalam perangkat lain dan digunakan untuk mengontrol fungsi tertentu, seperti sistem kontrol kendaraan, peralatan rumah tangga, dan perangkat elektronik lainnya.
+- Mesin komputasi yang tertanam dalam perangkat lain dan tidak selalu terlihat sebagai komputer mandiri. Misalnya, komputer tertanam dapat ditemukan dalam perangkat elektronik rumah tangga, mobil, atau peralatan industri.
+- Tujuan: Terintegrasi dalam perangkat lain dan digunakan untuk mengontrol fungsi tertentu, seperti sistem kontrol kendaraan, peralatan rumah tangga, dan perangkat elektronik lainnya.
 
 7.Komputer Quantum:
-Tujuan: Menangani perhitungan yang sangat kompleks dan memanfaatkan prinsip-prinsip mekanika kuantum untuk kecepatan dan efisiensi yang lebih tinggi.
+- Mesin komputasi yang menggunakan prinsip-prinsip mekanika kuantum untuk melakukan perhitungan. Komputer quantum memiliki potensi untuk menyelesaikan masalah tertentu dengan lebih efisien dibandingkan komputer klasik.
+- Tujuan: Menangani perhitungan yang sangat kompleks dan memanfaatkan prinsip-prinsip mekanika kuantum untuk kecepatan dan efisiensi yang lebih tinggi.
 
 8.Komputer Kuantum Dalam Pengembangan (Quantum-Inspired Computing):
-Tujuan: Menggabungkan konsep-konsep komputasi kuantum dengan teknologi saat ini untuk meningkatkan kinerja dalam beberapa aplikasi tertentu.
+- Mesin komputasi yang tidak sepenuhnya memanfaatkan prinsip-prinsip mekanika kuantum, tetapi terinspirasi olehnya. Mereka mencoba menggabungkan keuntungan komputasi kuantum dengan ketersediaan teknologi saat ini.
+- Tujuan: Menggabungkan konsep-konsep komputasi kuantum dengan teknologi saat ini untuk meningkatkan kinerja dalam beberapa aplikasi tertentu.
 
 9.Komputer Jaringan (Networked Computer):
-Tujuan: Terhubung dalam jaringan untuk berkomunikasi, berbagi sumber daya, dan mengakses informasi melalui internet atau jaringan lokal.
+- Mesin komputasi yang terhubung dalam jaringan dan dapat berkomunikasi satu sama lain. Ini mencakup komputer yang terhubung ke internet atau ke jaringan lokal.
+- Tujuan: Terhubung dalam jaringan untuk berkomunikasi, berbagi sumber daya, dan mengakses informasi melalui internet atau jaringan lokal.
 
 10.Komputer Wearable:
-Tujuan: Dikenakan oleh pengguna dan dirancang untuk memberikan informasi atau fungsi tertentu, seperti pelacakan kesehatan, notifikasi, atau interaksi langsung.
+- Mesin komputasi yang dikenakan oleh pengguna, seperti jam pintar, kacamata pintar, atau pakaian pintar. Komputer ini dirancang untuk digunakan secara mobile dan dapat memberikan informasi atau fungsi tertentu kepada pengguna.
+- Tujuan: Dikenakan oleh pengguna dan dirancang untuk memberikan informasi atau fungsi tertentu, seperti pelacakan kesehatan, notifikasi, atau interaksi langsung.
 Setiap jenis mesin komputasi memiliki peran dan kegunaannya masing-masing sesuai dengan fitur dan kemampuannya. Pemilihan mesin komputasi yang tepat tergantung pada kebutuhan dan tugas yang ingin dijalankan oleh pengguna atau organisasi.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
