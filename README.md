@@ -48,6 +48,7 @@
 10.Komputer Wearable:
 - Mesin komputasi yang dikenakan oleh pengguna, seperti jam pintar, kacamata pintar, atau pakaian pintar. Komputer ini dirancang untuk digunakan secara mobile dan dapat memberikan informasi atau fungsi tertentu kepada pengguna.
 - Tujuan: Dikenakan oleh pengguna dan dirancang untuk memberikan informasi atau fungsi tertentu, seperti pelacakan kesehatan, notifikasi, atau interaksi langsung.
+  
 Setiap jenis mesin komputasi memiliki peran dan kegunaannya masing-masing sesuai dengan fitur dan kemampuannya. Pemilihan mesin komputasi yang tepat tergantung pada kebutuhan dan tugas yang ingin dijalankan oleh pengguna atau organisasi.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
