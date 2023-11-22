@@ -21,7 +21,7 @@ Tujuan: Menangani pemrosesan transaksi bisnis skala besar dan aplikasi perusahaa
 4.Superkomputer:
 Tujuan: Menyelesaikan perhitungan ilmiah dan teknik yang sangat kompleks, seperti simulasi cuaca, desain obat, dan pemodelan kompleks.
 
-5.Komputer Tablet:
+5.Komputer Tablet:                                                                                                    
 Tujuan: Portabilitas dan kegunaan sehari-hari untuk hiburan, produktivitas, dan pendidikan.
 
 6.Embedded Computer:
