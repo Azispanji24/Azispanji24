@@ -10,34 +10,33 @@
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 1.Komputer Pribadi (Personal Computer - PC):
-
-Tujuan: Digunakan untuk tugas umum, seperti pengolahan kata, spreadsheet, browsing web, dan bermain game.
+  Tujuan: Digunakan untuk tugas umum, seperti pengolahan kata, spreadsheet, browsing web, dan bermain game.
+  
 2.Server:
-
 Tujuan: Menyediakan layanan atau sumber daya kepada komputer lain dalam jaringan, seperti penyimpanan data, hosting website, atau manajemen jaringan.
+
 3.Mainframe:
-
 Tujuan: Menangani pemrosesan transaksi bisnis skala besar dan aplikasi perusahaan yang membutuhkan kapasitas dan keandalan tinggi.
+
 4.Superkomputer:
-
 Tujuan: Menyelesaikan perhitungan ilmiah dan teknik yang sangat kompleks, seperti simulasi cuaca, desain obat, dan pemodelan kompleks.
+
 5.Komputer Tablet:
-
 Tujuan: Portabilitas dan kegunaan sehari-hari untuk hiburan, produktivitas, dan pendidikan.
+
 6.Embedded Computer:
-
 Tujuan: Terintegrasi dalam perangkat lain dan digunakan untuk mengontrol fungsi tertentu, seperti sistem kontrol kendaraan, peralatan rumah tangga, dan perangkat elektronik lainnya.
+
 7.Komputer Quantum:
-
 Tujuan: Menangani perhitungan yang sangat kompleks dan memanfaatkan prinsip-prinsip mekanika kuantum untuk kecepatan dan efisiensi yang lebih tinggi.
+
 8.Komputer Kuantum Dalam Pengembangan (Quantum-Inspired Computing):
-
 Tujuan: Menggabungkan konsep-konsep komputasi kuantum dengan teknologi saat ini untuk meningkatkan kinerja dalam beberapa aplikasi tertentu.
+
 9.Komputer Jaringan (Networked Computer):
-
 Tujuan: Terhubung dalam jaringan untuk berkomunikasi, berbagi sumber daya, dan mengakses informasi melalui internet atau jaringan lokal.
-10.Komputer Wearable:
 
+10.Komputer Wearable:
 Tujuan: Dikenakan oleh pengguna dan dirancang untuk memberikan informasi atau fungsi tertentu, seperti pelacakan kesehatan, notifikasi, atau interaksi langsung.
 Setiap jenis mesin komputasi memiliki peran dan kegunaannya masing-masing sesuai dengan fitur dan kemampuannya. Pemilihan mesin komputasi yang tepat tergantung pada kebutuhan dan tugas yang ingin dijalankan oleh pengguna atau organisasi.
 
