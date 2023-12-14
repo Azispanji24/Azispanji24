@@ -52,7 +52,8 @@
 Setiap jenis mesin komputasi memiliki peran dan kegunaannya masing-masing sesuai dengan fitur dan kemampuannya. Pemilihan mesin komputasi yang tepat tergantung pada kebutuhan dan tugas yang ingin dijalankan oleh pengguna atau organisasi.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-
+saya telah mengaktifkan dan mencoba google collab,saya mencoba mengubah kata dari text menjadi suara dan dari suara ke kata 
+https://colab.research.google.com/drive/1TlyHeg1NC27QV0pz1bqdVIfBwhiLvpn7?hl=id#scrollTo=aUeibV6TFdI1&uniqifier=3
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
