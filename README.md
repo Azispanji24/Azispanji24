@@ -117,6 +117,13 @@ Referensi tutorial
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+saya sudah membuat file json dengan vscode,saya mencoba membuat contoh seperti ini 
+{
+    "nama": "azis",
+    "umur": 18,
+    "kota": "Kota bogor",
+    "hibi": "melukis"
+}
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
