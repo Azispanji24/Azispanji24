@@ -73,9 +73,11 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
+
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+didalam hackerank terdapat banyak bahasa pemrograman yang bisa kita pilih yang didalamnya ada banyak tantangan berupa masalah yang dapat kita selesaikan sebagai bahan belajar kita atau pembelajaran online,kita juga dapat memilih kesulitan pada tantangan,dan juga ada banyak tes yang bersertifikasi,kita juga dapat mengikuti pertandingan dan berdiskusi antar pengguna hackerank lain
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
