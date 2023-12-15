@@ -63,6 +63,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+https://www.figma.com/file/pPC2WKjcXWhaEmokSvFSQU/Untitled?type=design&mode=design&t=cgPRZ8u6RtGOZRJM-0
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
