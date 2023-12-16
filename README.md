@@ -187,12 +187,20 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+minat saya pada design UX karena hoby saya melulis menggambar dan membuat design,di Roadmap.sh ini ada pembahasan tentang Design UX dari mulai Memahami Pengambilan Keputusan Manusia,dan faktor faktor nya,kemudian memahami produk,Desain konseptual,Praktik Terbaik UX sampai continue improving the product
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+ini linkdn saya https://www.linkedin.com/in/azis-panji-gumilang-1708862a4/
+linkdn ini sangat cocok bagi yang sedang mencari pekerjaan karena ada banyak peluang,di linkdn ini saya mengikuti dan mencoba bergabbung di beberapa akun yang bertema informatika seperti Universitas Informatika Dan Bisnis Indonesia,Institut Bisnis Dan Informatika Indonesia,Pondok Programmer,
+Clever Programmer,
+UI/UX User Experience Interactive Designer / Wireframes,
+UI Designer and UI Developer,Designer Institute of Interior Design - India
+Designer Institute of Interior Design - India
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+https://github.com/Azispanji24
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
