@@ -154,6 +154,7 @@ https://colab.research.google.com/drive/1TlyHeg1NC27QV0pz1bqdVIfBwhiLvpn7?hl=id#
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+https://colab.research.google.com/drive/1myAQ6r2a2llKs9T6rWGBlqnBcm1LlGCa?hl=id#scrollTo=FH2I89IF9kN7
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
