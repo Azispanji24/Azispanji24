@@ -160,11 +160,14 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
-## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐ 
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+ini akun kaggle saya https://www.kaggle.com/azispanji
+di kaggle ini kita bisa berkompetisi data sains antar dunia dan juga kita dapat bersaing atau berdiskusi untuk memecahkan masalah tertentu atau memberikan solusi terbaik berdasarkan kumpulan data yang diberikan,Kaggle menyediakan platform untuk berbagi proyek dan kumpulan data. Anda dapat menemukan proyek-proyek menarik yang telah diselesaikan oleh orang lain atau berbagi proyek Anda sendiri.
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+saya dan teman teman saya sudah memakai atau menggunakan  Komunikasi IoT pada aplikasi MQTT ini,menarik sih sebagai chat rahasia untuk komunitas hecker 
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
