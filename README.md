@@ -181,10 +181,12 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
-
+menurut saya HelloTalk bagus untuk belajar bahasa karena ada banyak bahasa yang dapat kita pelajari didalamnya,dan video video menarik untuk belajar
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+saya menemukan beberapa lowongan kerja pada linkdn saya,seperti designer di perusahaan Web Designer PT MitraComm Ekasarana dan di perusahaan ini juga sudah ada alumni uin sgd yang bekerja dan juga di gojek Senior Data Analyst yang juga terdapat beberapa alumni uin sgd didalamnya  
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+ada beberapa lowongan Freelancer IT atau pada linkdn saya,seperti pada IT Governance, IT Staff,Graphic Designer | Fashion Brand Wear Rame,Freelance Graphic Designer Lion & Lion
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 minat saya pada design UX karena hoby saya melulis menggambar dan membuat design,di Roadmap.sh ini ada pembahasan tentang Design UX dari mulai Memahami Pengambilan Keputusan Manusia,dan faktor faktor nya,kemudian memahami produk,Desain konseptual,Praktik Terbaik UX sampai continue improving the product
