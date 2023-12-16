@@ -83,7 +83,7 @@ didalam hackerank terdapat banyak bahasa pemrograman yang bisa kita pilih yang d
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-sesudah saya menginstal mysql saya dapat membuat database,menyimpan data
+
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
