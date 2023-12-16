@@ -149,6 +149,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+https://colab.research.google.com/drive/1TlyHeg1NC27QV0pz1bqdVIfBwhiLvpn7?hl=id#scrollTo=aUeibV6TFdI1&uniqifier=3
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
