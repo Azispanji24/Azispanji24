@@ -1,14 +1,15 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-- Menginternalisasi Computational Thinking berarti menerapkan cara berpikir yang terinspirasi oleh pemrograman komputer ke dalam kehidupan sehari-hari. Ini tidak hanya berguna untuk pemrograman, tetapi juga dapat membantu dalam menyelesaikan masalah, menganalisis data, dan membuat keputusan dalam berbagai hal.
-- Computational Thinking (Berpikir Komputasional) adalah suatu pendekatan untuk memecahkan masalah dan merancang sistem yang mengambil inspirasi dari konsep dan metode yang terkait dengan pemrograman komputer. Computational ini mencakup 4 aspek,yaitu ; 
+- menurut saya dan yang telah saya baca Menginternalisasi Computational Thinking berarti menerapkan cara berpikir yang terinspirasi oleh pemrograman komputer ke dalam kehidupan sehari-hari. Ini tidak hanya berguna untuk pemrograman, tetapi juga dapat membantu dalam menyelesaikan masalah, menganalisis data, dan membuat keputusan dalam berbagai hal.
+- dan Computational Thinking (Berpikir Komputasional) adalah suatu pendekatan untuk memecahkan masalah dan merancang sistem yang mengambil inspirasi dari konsep dan metode yang terkait dengan pemrograman komputer. Computational ini mencakup 4 aspek,yaitu ; 
 1. decomposition (dekomposisi) yaitu memecahkan masalah komplex menjadi bagian bagian kecil agar lebih mudah dikelola dan mudah dipahami
 2. Pattern Recognition (Pola Pengenalan) yaitu Mengidentifikasi pola atau tren dalam data. Ini melibatkan pengenalan pola yang mungkin muncul dari masalah atau data yang sedang dihadapi, dan kemampuan untuk mengidentifikasi hubungan antara elemen-elemen yang berbeda.
 3. Abstraction (abtraksi) yaitu Menyederhanakan dan mengurangi kompleksitas dengan fokus pada informasi yang relevan saja. pada pemrograman, ini bisa berarti membuat model atau representasi yang lebih sederhana dari suatu masalah atau konsep.
 4. Algorithmic Thinking (Algoritma) yaitu Merancang langkah-langkah atau aturan sistematis untuk memecahkan masalah atau menjalankan suatu tugas. Ini melibatkan pengembangan prosedur langkah-demi-langkah yang dapat diikuti untuk mencapai tujuan tertentu.
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+yang saya ketahui atau saya baca Jenis-Jenis Mesin Komputasi itu ada 10
 1.Komputer Pribadi (Personal Computer - PC):
 - Merupakan mesin komputasi yang dirancang untuk digunakan oleh satu orang. PC umumnya mencakup desktop dan laptop.  
 - Tujuan: Digunakan untuk tugas umum, seperti pengolahan kata, spreadsheet, browsing web, dan bermain game.
@@ -58,6 +59,7 @@ https://colab.research.google.com/drive/1TlyHeg1NC27QV0pz1bqdVIfBwhiLvpn7?hl=id#
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
+
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
@@ -73,9 +75,9 @@ saya sudah mencoba scratch,menurut saya ini adalah sebbuah bahasa pemrograman ti
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-public class BubbleSortString {
-    public static void main(String[] args) {
-        String[] array = {"Banana", "Orange", "Apple", "Mango", "Grapes"};
+    public class BubbleSortString {
+        public static void main(String[] args) {
+            String[] array = {"Banana", "Orange", "Apple", "Mango", "Grapes"};
 
         System.out.println("Array sebelum diurutkan:");
         printArray(array);
@@ -159,15 +161,16 @@ Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 saya sudah membuat file json dengan vscode,saya mencoba membuat contoh seperti ini 
-{
-    "nama": "azis",
-    "umur": 18,
-    "kota": "Kota bogor",
-    "hibi": "melukis"
-}
+
+      {
+          "nama": "azis",
+          "umur": 18,
+          "kota": "Kota bogor",
+          "hibi": "melukis"
+      }
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+saya sudah mencoba Web Hosting Dengan Halaman HTML dengan wordpress,saya membuat akun didalamnya dan mengedit wordpress saya  
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
@@ -181,6 +184,7 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
@@ -209,7 +213,7 @@ ini akun kaggle saya https://www.kaggle.com/azispanji
 di kaggle ini kita bisa berkompetisi data sains antar dunia dan juga kita dapat bersaing atau berdiskusi untuk memecahkan masalah tertentu atau memberikan solusi terbaik berdasarkan kumpulan data yang diberikan,Kaggle menyediakan platform untuk berbagi proyek dan kumpulan data. Anda dapat menemukan proyek-proyek menarik yang telah diselesaikan oleh orang lain atau berbagi proyek Anda sendiri.
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
-saya dan teman teman saya sudah memakai atau menggunakan  Komunikasi IoT pada aplikasi MQTT ini,menarik sih sebagai chat rahasia untuk komunitas hecker 
+saya dan teman teman saya sudah memakai atau menggunakan Komunikasi IoT pada aplikasi MQTT ini,menarik sih sebagai chat rahasia untuk komunitas hecker 
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
