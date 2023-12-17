@@ -73,9 +73,47 @@ saya sudah mencoba scratch,menurut saya ini adalah sebbuah bahasa pemrograman ti
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+public class BubbleSortString {
+    public static void main(String[] args) {
+        String[] array = {"Banana", "Orange", "Apple", "Mango", "Grapes"};
+
+        System.out.println("Array sebelum diurutkan:");
+        printArray(array);
+
+        bubbleSort(array);
+
+        System.out.println("\nArray setelah diurutkan:");
+        printArray(array);
+    }
+
+    // Fungsi untuk melakukan Bubble Sort pada array string
+    static void bubbleSort(String[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n-1; i++) {
+            for (int j = 0; j < n-i-1; j++) {
+                if (arr[j].compareTo(arr[j+1]) > 0) {
+                    // Tukar elemen jika ditemukan urutan yang salah
+                    String temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = temp;
+                }
+            }
+        }
+    }
+
+    // Fungsi untuk mencetak elemen-elemen array string
+    static void printArray(String[] arr) {
+        int n = arr.length;
+        for (int i=0; i < n; ++i)
+            System.out.print(arr[i] + " ");
+        System.out.println();
+    }
+}
+
 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+saya sudah mencoba menggunakan IDE (Integrated Development Environment) dalam pengembangan Java,dan IDE ini menurut saya memudahkan saya pada saat run di java 
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 didalam hackerank terdapat banyak bahasa pemrograman yang bisa kita pilih yang didalamnya ada banyak tantangan berupa masalah yang dapat kita selesaikan sebagai bahan belajar kita atau pembelajaran online,kita juga dapat memilih kesulitan pada tantangan,dan juga ada banyak tes yang bersertifikasi,kita juga dapat mengikuti pertandingan dan berdiskusi antar pengguna hackerank lain
@@ -83,6 +121,7 @@ didalam hackerank terdapat banyak bahasa pemrograman yang bisa kita pilih yang d
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+saya sudah mencoba Mysql pada laragon yang saya instal untuk memakai dtabase saya 
 
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
@@ -103,6 +142,7 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+saya sudah mencoba melacakan Informasi Server dari Alamat Domain dengan web https://www.whois.com/whois/ dengan website ini kita hanya perlu memasukan alamat ip seperti gambar ini,dan menurut saya ini  sangat mudah 
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
