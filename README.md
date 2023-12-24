@@ -58,6 +58,7 @@ https://colab.research.google.com/drive/1TlyHeg1NC27QV0pz1bqdVIfBwhiLvpn7?hl=id#
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
+saya telah mencoba windows cmd,di windows cmd saya mencoba pindah direktori di windows cmd dari c ke data d dan juga saya mencoba mengisi file saya dengan memakai java dengan memunculkan "hello world"
 
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
@@ -109,13 +110,13 @@ Referensi [1](https://scratch.mit.edu/)
         for (int i=0; i < n; ++i)
             System.out.print(arr[i] + " ");
         System.out.println();
+      }
     }
-}
 
 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-saya sudah mencoba menggunakan IDE (Integrated Development Environment) dalam pengembangan Java,dan IDE ini menurut saya memudahkan saya pada saat run di java 
+saya sudah mencoba menggunakan IDE (Integrated Development Environment) dalam pengembangan Java,dan IDE ini menurut saya memudahkan saya pada saat run di java tanpa perlu  mengcompile kodingan terlebih dahulu
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 didalam hackerank terdapat banyak bahasa pemrograman yang bisa kita pilih yang didalamnya ada banyak tantangan berupa masalah yang dapat kita selesaikan sebagai bahan belajar kita atau pembelajaran online,kita juga dapat memilih kesulitan pada tantangan,dan juga ada banyak tes yang bersertifikasi,kita juga dapat mengikuti pertandingan dan berdiskusi antar pengguna hackerank lain
@@ -123,7 +124,7 @@ didalam hackerank terdapat banyak bahasa pemrograman yang bisa kita pilih yang d
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-saya sudah mencoba Mysql pada laragon yang saya instal untuk memakai dtabase saya 
+saya sudah mencoba Mysql pada laragon yang saya instal untuk memakai 
 
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
