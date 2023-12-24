@@ -145,7 +145,7 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-saya sudah mencoba melacakan Informasi Server dari Alamat Domain dengan web https://www.whois.com/whois/ dengan website ini kita hanya perlu memasukan alamat ip seperti gambar ini,dan menurut saya ini  sangat mudah 
+saya sudah mencoba melacakan Informasi Server dari Alamat Domain dengan web https://www.whois.com/whois/ dengan website ini kita hanya perlu memasukan alamat ip seperti gambar ini,dan menurut saya ini sangat mudah 
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
@@ -204,6 +204,7 @@ https://colab.research.google.com/drive/1myAQ6r2a2llKs9T6rWGBlqnBcm1LlGCa?hl=id#
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+saya sudah mencoba Data Visualization Dengan Tools Microsoft Excel,ini juga sudah pernah saya coba pada praktikum fisika pada pencarian grafik data
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
@@ -227,8 +228,11 @@ saya dan teman teman saya sudah memakai atau menggunakan Komunikasi IoT pada apl
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+ada banyak profesi di informatika tetapi menurut saya tidak semua orang bisa pada semua bidang,karena manusia memiliki kelebihan dan kekurangan nya masing masing,mungkin saya baru mengexplore dan mengetahui sedikit profesi di teknik informatika,seperti analysis system,yang menganalysis kebutuhan teknologi,Pengembang Embedded Systems:
+Mengembangkan perangkat keras dan perangkat lunak untuk sistem tertanam dalam perangkat elektronik.dan UI dan UX yaitu Merancang antarmuka pengguna (UI) dan pengalaman pengguna (UX) untuk aplikasi dan situs web.hoby saya menggambar,melukis dan mendesign,alhamdulillah saya pernah membuat lambang angkatan dipondok saya dan design manual di acara acara pondok saya dan saat saya mengetahui sedikit tentang UI dan UX saya tertarik dan ingin memperdalam profesi ini,karena ini berhubungan dengan hoby saya dan sepertinya akan mudah dipelajari.
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+saya sudah mengexplore tools di Belajar Bahasa Inggris (Duolingo),sangat mudah untuk pemula yang ingin belajar bahasa,bukan hanya pemula tapi di dualingo ini juga kita bisa mengetes seberapa bisa kita dalam berbahasa,di dualingo ini juga bukan hanya bahsasa inggris yang kita pelajari,kita juga bisa belajar bahasa lain yang sudah disiapkan oleh dualingo ini,dan kita akan ditanya tentang keinginan kita dalam berbahasa itu karena apa,menarik sih sebagai course gratis yang mudah di gunakan 
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 menurut saya HelloTalk bagus untuk belajar bahasa karena ada banyak bahasa yang dapat kita pelajari didalamnya,dan video video menarik untuk belajar
