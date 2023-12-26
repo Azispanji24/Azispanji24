@@ -1,12 +1,7 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-- menurut saya dan yang telah saya baca Menginternalisasi Computational Thinking berarti menerapkan cara berpikir yang terinspirasi oleh pemrograman komputer ke dalam kehidupan sehari-hari. Ini tidak hanya berguna untuk pemrograman, tetapi juga dapat membantu dalam menyelesaikan masalah, menganalisis data, dan membuat keputusan dalam berbagai hal.
-- dan Computational Thinking (Berpikir Komputasional) adalah suatu pendekatan untuk memecahkan masalah dan merancang sistem yang mengambil inspirasi dari konsep dan metode yang terkait dengan pemrograman komputer. Computational ini mencakup 4 aspek,yaitu ; 
-1. decomposition (dekomposisi) yaitu memecahkan masalah komplex menjadi bagian bagian kecil agar lebih mudah dikelola dan mudah dipahami
-2. Pattern Recognition (Pola Pengenalan) yaitu Mengidentifikasi pola atau tren dalam data. Ini melibatkan pengenalan pola yang mungkin muncul dari masalah atau data yang sedang dihadapi, dan kemampuan untuk mengidentifikasi hubungan antara elemen-elemen yang berbeda.
-3. Abstraction (abtraksi) yaitu Menyederhanakan dan mengurangi kompleksitas dengan fokus pada informasi yang relevan saja. pada pemrograman, ini bisa berarti membuat model atau representasi yang lebih sederhana dari suatu masalah atau konsep.
-4. Algorithmic Thinking (Algoritma) yaitu Merancang langkah-langkah atau aturan sistematis untuk memecahkan masalah atau menjalankan suatu tugas. Ini melibatkan pengembangan prosedur langkah-demi-langkah yang dapat diikuti untuk mencapai tujuan tertentu.
+https://zizo024.wordpress.com/2023/12/26/hello-world/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 yang saya ketahui atau saya baca Jenis-Jenis Mesin Komputasi itu ada 10
