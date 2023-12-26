@@ -6,6 +6,7 @@ https://zizo024.wordpress.com/2023/12/26/hello-world/
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 https://wordpress.com/post/zizo024.wordpress.com/93
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+
 saya telah mengaktifkan dan mencoba google collab,di google colab ini saya mencoba mengubah kata dari text menjadi suara dan dari suara ke kata
 https://colab.research.google.com/drive/1TlyHeg1NC27QV0pz1bqdVIfBwhiLvpn7?hl=id#scrollTo=aUeibV6TFdI1&uniqifier=3
 ## Mencoba Console Sistem Operasi
