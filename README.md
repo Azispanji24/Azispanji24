@@ -12,7 +12,7 @@ https://colab.research.google.com/drive/1TlyHeg1NC27QV0pz1bqdVIfBwhiLvpn7?hl=id#
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
-saya telah mencoba windows cmd,di windows cmd saya mencoba pindah direktori di windows cmd dari c ke data d dan juga saya mencoba mengisi file saya dengan memakai java dengan memunculkan "hello world"
+https://youtu.be/e9DNh3PcVvc?si=joQtryn4OiFsxKlI
 
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
