@@ -28,10 +28,15 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 saya sudah mencoba scratch,menurut saya ini adalah sebbuah bahasa pemrograman tingkat tinggi karna sangat mudah dimengerti,mungkin seiring berjalannya waktu manusia memudahkan segala bentuk teknologi,di dalam scartch kita bisa membuat cerita,game,dan animasi dalam bentuk kartun anak anak atau animasi,dan penggunaan atau pembuatan nya pun sangat mudah hanya degan memilih atau memindahkan block yang telah disediakan oleh scratch,maka animasi pada scratch akan bertransformasi ,adapun block yang telah disediakan oleh scratch seperti block untuk bergerak atau pindah tempat,untuk suara,untuk melihat,dan untuk merasakan,untuk kontrol jika seperti ini maka akan seperti ini,operator dan variable  kita juga dapat memvariasikan sesuka kita,seperti mengganti atau meng edit si kucing pada sctrach,membuat suara sendiri,dan masih banyak lagi.
 
+![Screenshot (49)](https://github.com/Azispanji24/Azispanji24/assets/144518898/6cb856cb-92c1-4ba7-ba26-1416b675b5a4)
+
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-    public class BubbleSortString {
+
+kita bisa memakai array dijava untuk Mencoba Algoritma Bubble Sort seperti contoh dibawah ini 
+
+     public class BubbleSortString {
         public static void main(String[] args) {
             String[] array = {"Banana", "Orange", "Apple", "Mango", "Grapes"};
 
@@ -71,13 +76,29 @@ Referensi [1](https://scratch.mit.edu/)
 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-saya sudah mencoba menggunakan IDE (Integrated Development Environment) dalam pengembangan Java,dan IDE ini menurut saya memudahkan saya pada saat run di java tanpa perlu  mengcompile kodingan terlebih dahulu
+saya sudah mencoba menggunakan IDE (Integrated Development Environment) dengan Java,dan IDE ini menurut saya memudahkan saya dalam membuat kodingan seperti intruksi dibawah ini
+Ctrl + S: Menyimpan perubahan pada file saat ini.
+Ctrl + C: Menyalin teks yang dipilih.
+Ctrl + X: Memotong teks yang dipilih.
+Ctrl + V: Menyisipkan teks yang disalin atau dipotong.
+Ctrl + Z: Membatalkan perubahan terakhir.
+Ctrl + Y: Mengulangi perubahan yang dibatalkan terakhir.
+Ctrl + P: Membuka dialog Quick Open untuk beralih cepat ke file.
+Ctrl + `: Menampilkan/menyembunyikan terminal terintegrasi.
+Ctrl + /: Mengomentari atau membuka komentar pada baris yang dipilih.
+Ctrl + F: Membuka dialog Find untuk mencari dalam file saat ini.
+Ctrl + H: Membuka dialog Replace untuk mencari dan mengganti dalam file saat ini.
+Ctrl + G: Beralih ke nomor baris tertentu.
+Ctrl + B: Menyembunyikan/menampilkan sidebar.
+Ctrl + J: Menyembunyikan/menampilkan panel di bagian bawah (output, terminal, dll.).
+Ctrl + K, Ctrl + S: Menampilkan referensi pintas keyboard.
+
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 didalam hackerank terdapat banyak bahasa pemrograman yang bisa kita pilih yang didalamnya ada banyak tantangan berupa masalah yang dapat kita selesaikan sebagai bahan belajar kita atau pembelajaran online,kita juga dapat memilih kesulitan pada tantangan,dan juga ada banyak tes yang bersertifikasi,kita juga dapat mengikuti pertandingan dan berdiskusi antar pengguna hackerank lain
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-
+https://youtu.be/d3bl1NW4TnA
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 saya sudah mencoba Mysql pada laragon yang saya instal untuk memakai 
 
