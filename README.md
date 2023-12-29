@@ -123,7 +123,8 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
   https://youtu.be/d3bl1NW4TnA
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+https://youtu.be/pd6T3QzNHYg
+
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 saya sudah mencoba melacakan Informasi Server dari Alamat Domain dengan web https://www.whois.com/whois/ dengan website ini kita hanya perlu memasukan alamat ip seperti gambar ini,dan menurut saya ini sangat mudah 
