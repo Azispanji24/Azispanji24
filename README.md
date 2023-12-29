@@ -123,7 +123,6 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
   https://youtu.be/d3bl1NW4TnA
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
@@ -180,6 +179,7 @@ https://zizo024.wordpress.com/
 
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+https://youtu.be/4aM7tfxBWhw
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 ![image](https://github.com/Azispanji24/Azispanji24/assets/144518898/35b22cc5-f9ae-4677-a13b-52f43edbb6ac)
