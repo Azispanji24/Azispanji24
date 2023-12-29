@@ -77,21 +77,26 @@ kita bisa memakai array dijava untuk Mencoba Algoritma Bubble Sort seperti conto
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 saya sudah mencoba menggunakan IDE (Integrated Development Environment) dengan Java,dan IDE ini menurut saya memudahkan saya dalam membuat kodingan seperti intruksi dibawah ini
-Ctrl + S: Menyimpan perubahan pada file saat ini.
-Ctrl + C: Menyalin teks yang dipilih.
-Ctrl + X: Memotong teks yang dipilih.
-Ctrl + V: Menyisipkan teks yang disalin atau dipotong.
-Ctrl + Z: Membatalkan perubahan terakhir.
-Ctrl + Y: Mengulangi perubahan yang dibatalkan terakhir.
-Ctrl + P: Membuka dialog Quick Open untuk beralih cepat ke file.
-Ctrl + `: Menampilkan/menyembunyikan terminal terintegrasi.
-Ctrl + /: Mengomentari atau membuka komentar pada baris yang dipilih.
-Ctrl + F: Membuka dialog Find untuk mencari dalam file saat ini.
-Ctrl + H: Membuka dialog Replace untuk mencari dan mengganti dalam file saat ini.
-Ctrl + G: Beralih ke nomor baris tertentu.
-Ctrl + B: Menyembunyikan/menampilkan sidebar.
-Ctrl + J: Menyembunyikan/menampilkan panel di bagian bawah (output, terminal, dll.).
-Ctrl + K, Ctrl + S: Menampilkan referensi pintas keyboard.
+
+     Ctrl + S: Menyimpan perubahan pada file saat ini.
+     Ctrl + C: Menyalin teks yang dipilih.
+     Ctrl + X: Memotong teks yang dipilih.
+     Ctrl + V: Menyisipkan teks yang disalin atau dipotong.
+     Ctrl + Z: Membatalkan perubahan terakhir.
+     Ctrl + Y: Mengulangi perubahan yang dibatalkan terakhir.
+     Ctrl + P: Membuka dialog Quick Open untuk beralih cepat ke file.
+     Ctrl + `: Menampilkan/menyembunyikan terminal terintegrasi.
+     Ctrl + /: Mengomentari atau membuka komentar pada baris yang dipilih.
+     Ctrl + F: Membuka dialog Find untuk mencari dalam file saat ini.
+     Ctrl + H: Membuka dialog Replace untuk mencari dan mengganti dalam file saat ini.
+     Ctrl + G: Beralih ke nomor baris tertentu.
+     Ctrl + B: Menyembunyikan/menampilkan sidebar.
+     Ctrl + J: Menyembunyikan/menampilkan panel di bagian bawah (output, terminal, dll.).
+     Ctrl + K, Ctrl + S: Menampilkan referensi pintas keyboard.
+
+
+ ![Screenshot (50)](https://github.com/Azispanji24/Azispanji24/assets/144518898/2dfc82c8-c3c2-41a2-9188-9cbf79631587)
+
 
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
