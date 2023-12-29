@@ -106,8 +106,8 @@ didalam hackerank terdapat banyak bahasa pemrograman yang bisa kita pilih yang d
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 https://youtu.be/d3bl1NW4TnA
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-saya sudah mencoba Mysql pada laragon yang saya instal untuk memakai 
-
+saya sudah mencoba Mysql pada laragon yang saya instal 
+![Screenshot (27)](https://github.com/Azispanji24/Azispanji24/assets/144518898/43ce9aa4-fcd0-453b-ac8e-68f887132b10)
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
@@ -121,13 +121,16 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
-
+  https://youtu.be/d3bl1NW4TnA
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 saya sudah mencoba melacakan Informasi Server dari Alamat Domain dengan web https://www.whois.com/whois/ dengan website ini kita hanya perlu memasukan alamat ip seperti gambar ini,dan menurut saya ini sangat mudah 
+![Screenshot (28)](https://github.com/Azispanji24/Azispanji24/assets/144518898/b49562a1-bf17-4a2f-a4b7-3f65b96813dd)
+![Screenshot (29)](https://github.com/Azispanji24/Azispanji24/assets/144518898/3b173b40-9920-4e11-8cdc-124fa2a1dedc)
+
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
@@ -160,6 +163,7 @@ saya sudah mencoba Web Hosting Dengan Halaman HTML dengan wordpress,saya membuat
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+![Screenshot (43)](https://github.com/Azispanji24/Azispanji24/assets/144518898/1e94d615-d264-43e6-a2eb-e8a4e778dce4)
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
@@ -222,17 +226,24 @@ Mengembangkan perangkat keras dan perangkat lunak untuk sistem tertanam dalam pe
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 saya sudah mengexplore tools di Belajar Bahasa Inggris (Duolingo),sangat mudah untuk pemula yang ingin belajar bahasa,bukan hanya pemula tapi di dualingo ini juga kita bisa mengetes seberapa bisa kita dalam berbahasa,di dualingo ini juga bukan hanya bahsasa inggris yang kita pelajari,kita juga bisa belajar bahasa lain yang sudah disiapkan oleh dualingo ini,dan kita akan ditanya tentang keinginan kita dalam berbahasa itu karena apa,menarik sih sebagai course gratis yang mudah di gunakan 
+![Screenshot (33)](https://github.com/Azispanji24/Azispanji24/assets/144518898/b0bc88d5-f9df-4cac-8930-c41cfeedf927)
+
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 menurut saya HelloTalk bagus untuk belajar bahasa karena ada banyak bahasa yang dapat kita pelajari didalamnya,dan video video menarik untuk belajar
+
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 saya menemukan beberapa lowongan kerja pada linkdn saya,seperti designer di perusahaan Web Designer PT MitraComm Ekasarana dan di perusahaan ini juga sudah ada alumni uin sgd yang bekerja dan juga di gojek Senior Data Analyst yang juga terdapat beberapa alumni uin sgd didalamnya  
+![Screenshot (46)](https://github.com/Azispanji24/Azispanji24/assets/144518898/a1936f47-1b54-4712-ba0c-97d60b2ada7f)
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-ada beberapa lowongan Freelancer IT atau pada linkdn saya,seperti pada IT Governance, IT Staff,Graphic Designer | Fashion Brand Wear Rame,Freelance Graphic Designer Lion & Lion
+ada beberapa lowongan Freelancer IT atau pad![Screenshot (45)](https://github.com/Azispanji24/Azispanji24/assets/144518898/5134a337-43f1-4478-933d-d05696fe665d)
+a linkdn saya,seperti pada IT Governance, IT Staff,Graphic Designer | Fashion Brand Wear Rame,Freelance Graphic Designer Lion & Lion
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 minat saya pada design UX karena hoby saya melulis menggambar dan membuat design,di Roadmap.sh ini ada pembahasan tentang Design UX dari mulai Memahami Pengambilan Keputusan Manusia,dan faktor faktor nya,kemudian memahami produk,Desain konseptual,Praktik Terbaik UX sampai continue improving the product
+![Screenshot (47)](https://github.com/Azispanji24/Azispanji24/assets/144518898/efaa1706-0385-4d8a-bb55-b1c5d7c4143e)
+
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
@@ -246,8 +257,11 @@ Designer Institute of Interior Design - India
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 https://github.com/Azispanji24
+![Screenshot (48)](https://github.com/Azispanji24/Azispanji24/assets/144518898/5333455c-58a5-40c9-a6dc-4fb6ff6473f3)
+
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+saya pernah ikut event 
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
