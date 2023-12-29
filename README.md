@@ -192,6 +192,7 @@ https://youtu.be/ywB8SbbmvxA
 https://colab.research.google.com/drive/1TlyHeg1NC27QV0pz1bqdVIfBwhiLvpn7?hl=id#scrollTo=aUeibV6TFdI1&uniqifier=3
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+https://youtu.be/YD0A1KuKNFc
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 https://colab.research.google.com/drive/1myAQ6r2a2llKs9T6rWGBlqnBcm1LlGCa?hl=id#scrollTo=FH2I89IF9kN7
