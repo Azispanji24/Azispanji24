@@ -172,6 +172,7 @@ https://zizo024.wordpress.com/
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+![image](https://github.com/Azispanji24/Azispanji24/assets/144518898/35b22cc5-f9ae-4677-a13b-52f43edbb6ac)
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
