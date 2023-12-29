@@ -1,4 +1,4 @@
-# Hello Informatics !
+![image](https://github.com/Azispanji24/Azispanji24/assets/144518898/78605680-ff6d-4d82-91e5-59f443d11818)# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 https://zizo024.wordpress.com/2023/12/26/hello-world/
@@ -101,6 +101,7 @@ saya sudah mencoba menggunakan IDE (Integrated Development Environment) dengan J
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 didalam hackerank terdapat banyak bahasa pemrograman yang bisa kita pilih yang didalamnya ada banyak tantangan berupa masalah yang dapat kita selesaikan sebagai bahan belajar kita atau pembelajaran online,kita juga dapat memilih kesulitan pada tantangan,dan juga ada banyak tes yang bersertifikasi,kita juga dapat mengikuti pertandingan dan berdiskusi antar pengguna hackerank lain
+![Screenshot (54)](https://github.com/Azispanji24/Azispanji24/assets/144518898/6577ae55-03fd-4159-83e9-3f3548a3f974)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 https://youtu.be/d3bl1NW4TnA
