@@ -185,6 +185,7 @@ https://zizo024.wordpress.com/
 ![image](https://github.com/Azispanji24/Azispanji24/assets/144518898/35b22cc5-f9ae-4677-a13b-52f43edbb6ac)
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+https://youtu.be/ywB8SbbmvxA
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 https://colab.research.google.com/drive/1TlyHeg1NC27QV0pz1bqdVIfBwhiLvpn7?hl=id#scrollTo=aUeibV6TFdI1&uniqifier=3
