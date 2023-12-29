@@ -1,4 +1,4 @@
-![image](https://github.com/Azispanji24/Azispanji24/assets/144518898/78605680-ff6d-4d82-91e5-59f443d11818)# Hello Informatics !
+# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 https://zizo024.wordpress.com/2023/12/26/hello-world/
