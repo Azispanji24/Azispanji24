@@ -150,12 +150,15 @@ saya sudah membuat file json dengan vscode,saya mencoba membuat contoh seperti i
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 saya sudah mencoba Web Hosting Dengan Halaman HTML dengan wordpress,saya membuat akun didalamnya dan mengedit wordpress saya  
+![Screenshot (52)](https://github.com/Azispanji24/Azispanji24/assets/144518898/e7199a2f-62c1-42f4-be45-fb4d77c5c130)
+
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+https://youtu.be/rOLwG__srSM
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
