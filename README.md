@@ -208,6 +208,7 @@ saya sudah mencoba Data Visualization Dengan Tools Microsoft Excel,ini juga suda
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐ 
+![Screenshot (58)](https://github.com/Azispanji24/Azispanji24/assets/144518898/87b88d5f-47b2-4a94-af1d-5777f941f8b6)
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 ini akun kaggle saya https://www.kaggle.com/azispanji
@@ -217,7 +218,7 @@ di kaggle ini kita bisa berkompetisi data sains antar dunia dan juga kita dapat 
 saya dan teman teman saya sudah memakai atau menggunakan Komunikasi IoT pada aplikasi MQTT ini,menarik sih sebagai chat rahasia untuk komunitas hecker 
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
-
+https://youtu.be/iNcYE_G8Sw8?si=nmV34_STpk2effoU
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
