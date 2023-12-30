@@ -200,6 +200,7 @@ https://youtu.be/YD0A1KuKNFc
 https://colab.research.google.com/drive/1myAQ6r2a2llKs9T6rWGBlqnBcm1LlGCa?hl=id#scrollTo=FH2I89IF9kN7
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+https://youtu.be/mOBV8ofklR8
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 saya sudah mencoba Data Visualization Dengan Tools Microsoft Excel,ini juga sudah pernah saya coba pada praktikum fisika pada pencarian grafik data
