@@ -36,9 +36,9 @@ Referensi [1](https://scratch.mit.edu/)
 
 kita bisa memakai array dijava untuk Mencoba Algoritma Bubble Sort seperti contoh dibawah ini 
 
-     public class BubbleSortString {
-        public static void main(String[] args) {
-            String[] array = {"Banana", "Orange", "Apple", "Mango", "Grapes"};
+    public class bbl {
+    public static void main(String[] args) {
+        String[] array = { "pisang", "jeruk", "semangka", "mangga", "anggur" };
 
         System.out.println("Array sebelum diurutkan:");
         printArray(array);
@@ -52,13 +52,13 @@ kita bisa memakai array dijava untuk Mencoba Algoritma Bubble Sort seperti conto
     // Fungsi untuk melakukan Bubble Sort pada array string
     static void bubbleSort(String[] arr) {
         int n = arr.length;
-        for (int i = 0; i < n-1; i++) {
-            for (int j = 0; j < n-i-1; j++) {
-                if (arr[j].compareTo(arr[j+1]) > 0) {
+        for (int i = 0; i < n - 1; i++) {
+            for (int j = 0; j < n - i - 1; j++) {
+                if (arr[j].compareTo(arr[j + 1]) > 0) {
                     // Tukar elemen jika ditemukan urutan yang salah
                     String temp = arr[j];
-                    arr[j] = arr[j+1];
-                    arr[j+1] = temp;
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
                 }
             }
         }
@@ -67,12 +67,14 @@ kita bisa memakai array dijava untuk Mencoba Algoritma Bubble Sort seperti conto
     // Fungsi untuk mencetak elemen-elemen array string
     static void printArray(String[] arr) {
         int n = arr.length;
-        for (int i=0; i < n; ++i)
+        for (int i = 0; i < n; ++i)
             System.out.print(arr[i] + " ");
         System.out.println();
-      }
     }
+}
 
+
+![Screenshot (57)](https://github.com/Azispanji24/Azispanji24/assets/144518898/6e87f23b-3e08-4b6e-b5e8-6fe059613d73)
 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
