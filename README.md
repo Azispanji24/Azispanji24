@@ -222,6 +222,7 @@ saya dan teman teman saya sudah memakai atau menggunakan Komunikasi IoT pada apl
 https://youtu.be/iNcYE_G8Sw8?si=nmV34_STpk2effoU
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+https://youtu.be/JcmsgVvjf2w
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 https://youtu.be/dE-z9Wq8DGc
