@@ -242,7 +242,7 @@ https://youtu.be/JcmsgVvjf2w
 https://youtu.be/dE-z9Wq8DGc
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-
+https://youtu.be/yUPcVScZGo4
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 rasial bank papan atas P&D Baitul Mal Vision Regency Masjid Bekasi adalah sejumlah dana yang dibentuk untuk pengeluaran-pengeluaran yang relatif kecil dari segi pengolahannya. Mesin-mesin Masjid Baitul masih dikelola secara manual dengan mencatatnya di buku kemudian diketik menggunakan Microsoft Word. Buku pengelolaan kas yang bersifat merusak membutuhkan waktu yang lama dalam pencarian datanya yang tentunya memperlambat pendataan. uang tunai dan adanya donatur tetap yang tidak tepat waktu dalam memberikan dana untuk menjamin masjid agar donatur dipertimbangkan kelayakannya. Hai, perlu dikembangkan aplikasi untuk mempercepat pengelolaan data, transparansi, keakuratan data pengelolaan gas dan menerapkan metode algoritma syaraf untuk menentukan kelayakan pendonor tetap, mengubah proses pengelolaan dari manual menjadi berbasis web dan identifikasi masalah.
