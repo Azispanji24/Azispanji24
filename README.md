@@ -75,7 +75,21 @@ kita bisa memakai array dijava untuk Mencoba Algoritma Bubble Sort seperti conto
 
 
 ![Screenshot (57)](https://github.com/Azispanji24/Azispanji24/assets/144518898/6e87f23b-3e08-4b6e-b5e8-6fe059613d73)
+- public class bbl: Mendefinisikan kelas Java dengan nama "bbl".
 
+- public static void main(String[] args): Fungsi utama yang akan dijalankan saat program dijalankan. Ini berisi kode untuk menginisialisasi array, menampilkan array sebelum diurutkan, mengurutkan array menggunakan Bubble Sort, dan - ---
+
+- menampilkan array setelah diurutkan.
+  
+- static void bubbleSort(String[] arr): Fungsi yang mengimplementasikan algoritma Bubble Sort untuk mengurutkan array string.
+  
+- static void printArray(String[] arr): Fungsi untuk mencetak elemen-elemen array string.
+  
+- Dalam fungsi bubbleSort, terdapat nested loop untuk melakukan perbandingan dan pertukaran elemen array.
+  
+- compareTo digunakan untuk membandingkan dua string dalam urutan leksikografis.
+  
+- Setelah mengurutkan array, hasilnya dicetak menggunakan fungsi printArray.
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 saya sudah mencoba menggunakan IDE (Integrated Development Environment) dengan Java,dan IDE ini menurut saya memudahkan saya dalam membuat kodingan seperti intruksi dibawah ini
