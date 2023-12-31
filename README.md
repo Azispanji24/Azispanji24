@@ -146,7 +146,7 @@ Referensi tutorial
   https://youtu.be/d3bl1NW4TnA
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
+https://youtu.be/VWErQw5Iti8
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
@@ -220,6 +220,7 @@ saya dan teman teman saya sudah memakai atau menggunakan Komunikasi IoT pada apl
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 https://youtu.be/iNcYE_G8Sw8?si=nmV34_STpk2effoU
+
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
@@ -258,6 +259,7 @@ minat saya pada design UX karena hoby saya melulis menggambar dan membuat design
 
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 ini linkdn saya https://www.linkedin.com/in/azis-panji-gumilang-1708862a4/
