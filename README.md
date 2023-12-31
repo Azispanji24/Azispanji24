@@ -206,6 +206,7 @@ https://youtu.be/mOBV8ofklR8
 saya sudah mencoba Data Visualization Dengan Tools Microsoft Excel,ini juga sudah pernah saya coba pada praktikum fisika pada pencarian grafik data
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+https://youtu.be/djRYhojiGLo
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐ 
 ![Screenshot (58)](https://github.com/Azispanji24/Azispanji24/assets/144518898/87b88d5f-47b2-4a94-af1d-5777f941f8b6)
@@ -226,10 +227,13 @@ https://youtu.be/iNcYE_G8Sw8?si=nmV34_STpk2effoU
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+rasial bank papan atas P&D Baitul Mal Vision Regency Masjid Bekasi adalah sejumlah dana yang dibentuk untuk pengeluaran-pengeluaran yang relatif kecil dari segi pengolahannya. Mesin-mesin Masjid Baitul masih dikelola secara manual dengan mencatatnya di buku kemudian diketik menggunakan Microsoft Word. Buku pengelolaan kas yang bersifat merusak membutuhkan waktu yang lama dalam pencarian datanya yang tentunya memperlambat pendataan. uang tunai dan adanya donatur tetap yang tidak tepat waktu dalam memberikan dana untuk menjamin masjid agar donatur dipertimbangkan kelayakannya. Hai, perlu dikembangkan aplikasi untuk mempercepat pengelolaan data, transparansi, keakuratan data pengelolaan gas dan menerapkan metode algoritma syaraf untuk menentukan kelayakan pendonor tetap, mengubah proses pengelolaan dari manual menjadi berbasis web dan identifikasi masalah.
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 ada banyak profesi di informatika tetapi menurut saya tidak semua orang bisa pada semua bidang,karena manusia memiliki kelebihan dan kekurangan nya masing masing,mungkin saya baru mengexplore dan mengetahui sedikit profesi di teknik informatika,seperti analysis system,yang menganalysis kebutuhan teknologi,Pengembang Embedded Systems:
 Mengembangkan perangkat keras dan perangkat lunak untuk sistem tertanam dalam perangkat elektronik.dan UI dan UX yaitu Merancang antarmuka pengguna (UI) dan pengalaman pengguna (UX) untuk aplikasi dan situs web.hoby saya menggambar,melukis dan mendesign,alhamdulillah saya pernah membuat lambang angkatan dipondok saya dan design manual di acara acara pondok saya dan saat saya mengetahui sedikit tentang UI dan UX saya tertarik dan ingin memperdalam profesi ini,karena ini berhubungan dengan hoby saya dan sepertinya akan mudah dipelajari.
+![Screenshot (59)](https://github.com/Azispanji24/Azispanji24/assets/144518898/a7cbf172-ca06-4bb2-ac80-3707f6ddf5fc)
+https://youtu.be/yvJ1QF6foX8?si=4mpW7n9nSK1bwK99
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 saya sudah mengexplore tools di Belajar Bahasa Inggris (Duolingo),sangat mudah untuk pemula yang ingin belajar bahasa,bukan hanya pemula tapi di dualingo ini juga kita bisa mengetes seberapa bisa kita dalam berbahasa,di dualingo ini juga bukan hanya bahsasa inggris yang kita pelajari,kita juga bisa belajar bahasa lain yang sudah disiapkan oleh dualingo ini,dan kita akan ditanya tentang keinginan kita dalam berbahasa itu karena apa,menarik sih sebagai course gratis yang mudah di gunakan 
