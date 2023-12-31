@@ -228,6 +228,8 @@ https://youtu.be/iNcYE_G8Sw8?si=nmV34_STpk2effoU
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 rasial bank papan atas P&D Baitul Mal Vision Regency Masjid Bekasi adalah sejumlah dana yang dibentuk untuk pengeluaran-pengeluaran yang relatif kecil dari segi pengolahannya. Mesin-mesin Masjid Baitul masih dikelola secara manual dengan mencatatnya di buku kemudian diketik menggunakan Microsoft Word. Buku pengelolaan kas yang bersifat merusak membutuhkan waktu yang lama dalam pencarian datanya yang tentunya memperlambat pendataan. uang tunai dan adanya donatur tetap yang tidak tepat waktu dalam memberikan dana untuk menjamin masjid agar donatur dipertimbangkan kelayakannya. Hai, perlu dikembangkan aplikasi untuk mempercepat pengelolaan data, transparansi, keakuratan data pengelolaan gas dan menerapkan metode algoritma syaraf untuk menentukan kelayakan pendonor tetap, mengubah proses pengelolaan dari manual menjadi berbasis web dan identifikasi masalah.
+![Screenshot (59)](https://github.com/Azispanji24/Azispanji24/assets/144518898/b8ce66a6-a266-424c-bf00-0c775b06a618)
+
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 ada banyak profesi di informatika tetapi menurut saya tidak semua orang bisa pada semua bidang,karena manusia memiliki kelebihan dan kekurangan nya masing masing,mungkin saya baru mengexplore dan mengetahui sedikit profesi di teknik informatika,seperti analysis system,yang menganalysis kebutuhan teknologi,Pengembang Embedded Systems:
