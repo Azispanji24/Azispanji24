@@ -229,6 +229,7 @@ https://youtu.be/dE-z9Wq8DGc
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
+
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 rasial bank papan atas P&D Baitul Mal Vision Regency Masjid Bekasi adalah sejumlah dana yang dibentuk untuk pengeluaran-pengeluaran yang relatif kecil dari segi pengolahannya. Mesin-mesin Masjid Baitul masih dikelola secara manual dengan mencatatnya di buku kemudian diketik menggunakan Microsoft Word. Buku pengelolaan kas yang bersifat merusak membutuhkan waktu yang lama dalam pencarian datanya yang tentunya memperlambat pendataan. uang tunai dan adanya donatur tetap yang tidak tepat waktu dalam memberikan dana untuk menjamin masjid agar donatur dipertimbangkan kelayakannya. Hai, perlu dikembangkan aplikasi untuk mempercepat pengelolaan data, transparansi, keakuratan data pengelolaan gas dan menerapkan metode algoritma syaraf untuk menentukan kelayakan pendonor tetap, mengubah proses pengelolaan dari manual menjadi berbasis web dan identifikasi masalah.
 ![Screenshot (59)](https://github.com/Azispanji24/Azispanji24/assets/144518898/b8ce66a6-a266-424c-bf00-0c775b06a618)
@@ -261,6 +262,10 @@ minat saya pada design UX karena hoby saya melulis menggambar dan membuat design
 
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+Minat saya pada GitHub project Ant Design/ant-design muncul dari ketertarikan saya yang mendalam pada bidang User Interface (UI) dan User Experience (UX),
+![Screenshot (60)](https://github.com/Azispanji24/Azispanji24/assets/144518898/4a1b6e45-7787-4036-8eb6-a4439736e1e3)
+Saya yakin bahwa berkontribusi pada proyek Ant Design akan memberikan kesempatan untuk memperdalam pemahaman saya tentang konsep-konsep desain terbaik dan praktik-praktik UI/UX yang terkini. Dengan mengikuti dan terlibat dalam pengembangan Ant Design, saya berharap dapat memberikan kontribusi positif pada perkembangan dan keberlanjutan komunitas pengembang UI/UX yang semakin dinamis. Hal ini sesuai dengan minat saya untuk terus belajar dan berpartisipasi dalam menciptakan pengalaman pengguna yang luar biasa dan memuaskan.
+![Screenshot (61)](https://github.com/Azispanji24/Azispanji24/assets/144518898/d04f43ce-05b2-4083-8e9e-608c1bab5731)
 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
