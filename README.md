@@ -2,7 +2,7 @@
 ### Front-End Developer based in Bandung, Indonesia 🇮🇩
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[USERNAME_GITHUB_LU]&label=Profile%20views&color=0e76a8&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Azispanji24&label=Profile%20views&color=0e76a8&style=flat" alt="Views" />
 </p>
 
 I build responsive, high-performance, and visually engaging web experiences. Dedicated to writing clean, maintainable code and solving complex UI challenges.
@@ -27,12 +27,12 @@ I build responsive, high-performance, and visually engaging web experiences. Ded
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_LU]&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB_LU]&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azispanji24&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azispanji24&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_GITHUB_LU]&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azispanji24&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -40,5 +40,5 @@ I build responsive, high-performance, and visually engaging web experiences. Ded
 ### 🤝 Connect with me
 <p align="left">
   <a href="mailto:azispanji@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/azis-panji"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/azis-panji"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
