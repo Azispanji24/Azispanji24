@@ -10,13 +10,16 @@
 
 ---
 
+---
+
 ### 🎵 Currently Jamming To
 <p align="center">
-  <!-- Widget Spotify Dinamis yang sinkron otomatis kalau lu lagi dengerin lagu -->
-  <a href="https://spotify-github-profile.js.org/api/view?uid=azispanji&theme=tokyonight">
-    <img src="https://novatorem-spotify-github-profile.vercel.app/api/playing?uid=azispanji" alt="Spotify Player" width="400px" />
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=azispanji&theme=tokyonight&bar_color=adc6ff&bar_color_cover=true" alt="Spotify Player" width="450px" />
   </a>
 </p>
+
+---
 
 ---
 
