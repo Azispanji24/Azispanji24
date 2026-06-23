@@ -1,44 +1,79 @@
-# Hi I'm Azis panjo 👋
-### Front-End Developer based in Bandung, Indonesia 🇮🇩
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Azispanji24&label=Profile%20views&color=0e76a8&style=flat" alt="Views" />
-</p>
-
-I build responsive, high-performance, and visually engaging web experiences. Dedicated to writing clean, maintainable code and solving complex UI challenges.
-
----
-
-### 🚀 Tech Stack & Tools
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-### 📊 My GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azispanji24&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azispanji24&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=AZIS%20PANJI&subtitle=Front-End%20Developer%20%7C%20Creative%20Problem%20Solver&fontSize=50&animation=fadeIn&fontAlignY=45" width="100%" alt="Banner" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azispanji24&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/Azispanji24?label=Followers&style=flat-square&color=005ac2" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Azispanji24&label=Profile%20Views&color=6f00be&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/badge/Status-Active%20Developer-emerald?style=flat-square" alt="Status" />
 </p>
 
 ---
 
-### 🤝 Connect with me
+### 🎵 Currently Jamming To
+<p align="center">
+  <!-- Widget Spotify Dinamis yang sinkron otomatis kalau lu lagi dengerin lagu -->
+  <a href="https://spotify-github-profile.js.org/api/view?uid=azispanji&theme=tokyonight">
+    <img src="https://novatorem-spotify-github-profile.vercel.app/api/playing?uid=azispanji" alt="Spotify Player" width="400px" />
+  </a>
+</p>
+
+---
+
+### 👤 About Me
 <p align="left">
+  👋 <strong>Hello! I'm Azis Panji</strong> — A passionate Front-End Developer based in Bandung, Indonesia 🇮🇩. I specialize in crafting beautiful, high-performance, and pixel-perfect digital user experiences.
+</p>
+
+* 🚀 **Current Focus:** Advanced React Frameworks & Tailwind CSS Systems.
+* 🛠️ **Dedication:** Writing clean, scalable, semantic code and solving complex UI/UX layout challenges.
+* 🤝 **Goal:** Open for professional collaborations, front-end roles, and cutting-edge web projects.
+
+---
+
+### 🛠️ Tech Stack & Capabilities
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" title="HTML5"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" title="CSS3"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/> |
+| **Libraries & Frameworks** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" title="React"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" title="Tailwind CSS"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" title="Bootstrap"/> |
+| **Design & Productivity** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" title="Figma"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" title="VS Code"/> |
+| **Version Control & Deploy** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" title="Git"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" title="GitHub"/> &nbsp; <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/f8bc8e12030239.562a677320f78.png" width="30" title="Vercel"/> |
+
+---
+
+### 🏆 Featured Front-End Projects
+| 🚀 Project Name | 💻 Tech Stack | 📋 Brief Description |
+| :--- | :--- | :--- |
+| **Smart Asset Dashboard** | React + Tailwind | High-performance dashboard built with a fully responsive fluid UI and state data visualizations. |
+| **AI Processing Hub UI** | HTML5 + CSS3 + JS | Cutting-edge landing page layout showcasing rich dynamic macro-interactions and custom dark-mode aesthetics. |
+| **Interactive Educational Hub** | React + Canvas | Bespoke web interface featuring animations, progress meters, and structural accessibility compliance. |
+| **Premium Editorial Invitation** | Next.js + Framer Motion | High-fidelity fluid design with parallax scrolling layouts and premium asset rendering engines. |
+
+---
+
+### 📊 Performance & Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azispanji24&show_icons=true&theme=tokyonight&hide_border=true" alt="Azis's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azispanji24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azispanji24&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+---
+
+### 🕹️ Contribution Snake
+<p align="center">
+  <!-- Grafik animasi uler yang jalan makan kotak kontribusi ijo lu -->
+  <img src="https://raw.githubusercontent.com/Azispanji24/Azispanji24/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake" width="100%" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="center">
   <a href="mailto:azispanji@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/azis-panji"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
