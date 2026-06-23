@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=AZIS%20PANJI&subtitle=Front-End%20Developer%20%7C%20Creative%20Problem%20Solver&fontSize=50&animation=fadeIn&fontAlignY=45" width="100%" alt="Banner" />
+  <img src="https://images.unsplash.com/photo-1618477388954-7852f32655ec?auto=format&fit=crop&w=1200&h=400&q=80" width="100%" alt="Azis Panji Front End Developer Banner" />
 </p>
 
 <p align="center">
