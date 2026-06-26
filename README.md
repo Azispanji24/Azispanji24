@@ -59,8 +59,8 @@
 ### 📊 Performance & Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azispanji24&show_icons=true&theme=tokyonight&hide_border=true" alt="Azis's Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azispanji24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azispanji24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=java,kotlin" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azispanji24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azispanji24&layout=compact&theme=tokyonight&hide_border=true&langs_count=50" />
 </p>
 
 <p align="center">
